@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="clear: both;"></div>
 <img align="right" alt="Me" width="400" src="e969ac50dcbe5575680fe678c18f6260.jpg" style="float: left; margin-right: 10px;">
 
 ![image](https://github.com/xlli-start/xlli-start/assets/39802205/d3a114be-655b-4ef5-adc7-1a09cb948681)
