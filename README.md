@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 这是我初次开始的GitHub之旅，我的职业生涯从此开始...
 🫰2023-11-18 13:36:00
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xlli-start)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlli-start&show_icons=true&theme=radical)
 
