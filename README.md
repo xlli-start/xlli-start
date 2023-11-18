@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/xlli-start/xlli-start/assets/39802205/d8fe6767-9980-4bf1-9980-3cb7d709d47e)
+">
+
 ![image](https://github.com/xlli-start/xlli-start/assets/39802205/d3a114be-655b-4ef5-adc7-1a09cb948681)
 
 这是我初次开始的GitHub之旅，我的职业生涯从此开始...
