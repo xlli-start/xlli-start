@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
 
 <img align="right" alt="Me" width="400" src="e969ac50dcbe5575680fe678c18f6260.jpg" style="float: right; margin-left: 10px; text-align: right;">
