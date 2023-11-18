@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 这是我初次开始的GitHub之旅，我的职业生涯从此开始...
 🫰2023-11-18 13:36:00
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlli-start&show_icons=true&theme=radical)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xlli-start&repo=awesome-cpp-cn)](https://github.com/xlli-start/awesome-cpp-cn)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlli-start&layout=compact)](https://github.com/xlli-start/awesome-cpp-cn)
