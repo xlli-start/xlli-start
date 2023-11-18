@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlli-start&show_icons=true&theme=radical)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xlli-start&repo=awesome-cpp-cn)](https://github.com/xlli-start/awesome-cpp-cn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlli-start&layout=compact)](https://github.com/xlli-start/cpprestsdk)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
