@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 这是我初次开始的GitHub之旅，我的职业生涯从此开始...
 🫰2023-11-18 13:36:00
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xlli-start&theme=onedark&column=-1&no-bg=true&no-frame=false)](https://github.com/xlli-start/awesome-cpp-cn)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xlli-start&theme=onedark&column=-1&no-bg=true&no-frame=true)](https://github.com/xlli-start/awesome-cpp-cn)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlli-start&show_icons=true&theme=radical)
 
