@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 这是我初次开始的GitHub之旅，我的职业生涯从此开始...
 🫰2023-11-18 13:36:00
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlli-start)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
